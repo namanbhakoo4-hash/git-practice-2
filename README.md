@@ -18,3 +18,7 @@ Change created directly on GitHub for fetch practice.
 
 Learning how to synchronize Git branches.
 yoyo honey singh
+
+
+
+Practising Git rebase on a feature branch.
